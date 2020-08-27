@@ -1,2 +1,2 @@
 # Biomaterials
-Neural probe,
+Neural probe
